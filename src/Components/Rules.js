@@ -11,7 +11,7 @@ function Rules(){
             <div className="header__rules_right">
                 <center>
                     <h1>
-                        Rules for the gmae
+                        Rules for the game
                     </h1>
                 </center>
                 <div className="header_rules_contianer">
